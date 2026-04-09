@@ -10,7 +10,9 @@ class Student:
         print("Department :",self.Department)
 
 s1 = Student("Pranay", 25,"Entc")
+
 s2 = Student("Raj", 26,"ENTC")
+
 s1.display()
 s2.display()
         
